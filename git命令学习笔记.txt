@@ -1,0 +1,14 @@
+1:git add  
+
+git add filename
+git add . #添加所有文件
+
+2:git commit
+
+3:git push
+
+Tag 标签
+git tag -a v0.1 -m 'Hello World'
+git push origin v0.1
+
+4分支branch
